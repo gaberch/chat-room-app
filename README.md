@@ -6,7 +6,7 @@ This app was created using Socket.io.
 
 App is currently deployed on Heroku at [https://gabe-chat-app.herokuapp.com/](https://gabe-chat-app.herokuapp.com/).
 
-# Available NPM scripts
+## Available NPM scripts
 
 `npm start` - Production mode
 
