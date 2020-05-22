@@ -9,4 +9,5 @@ App is currently deployed on Heroku at [https://gabe-chat-app.herokuapp.com/](ht
 # Available NPM scripts
 
 `npm start` - Production mode
+
 `npm run dev` - Development mode
